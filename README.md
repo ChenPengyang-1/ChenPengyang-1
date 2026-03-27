@@ -8,6 +8,5 @@
 
 <ul>
   <li>🏫 I'm studying at CQUPT</li>
-  <li>💻 Focus on Web frontend development</li>
   <li>📬 How to reach me: <a href="mailto:2490590366@qq.com">2490590366@qq.com</a></li>
 </ul>
