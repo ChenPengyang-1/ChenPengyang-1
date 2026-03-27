@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**ChenPengyang-1/ChenPengyang-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm Pengyang Chen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning frontend development with React and TypeScript
+- 💻 Interested in building practical web projects
+- ⚡ Enjoy turning ideas into simple and useful pages
+
+## Tech Stack
+
+`JavaScript` `TypeScript` `React` `HTML` `CSS`
+
+## Projects
+
+- [Lowcode-builder-studio](https://github.com/ChenPengyang-1/Lowcode-builder-studio)  
+  A low-code page builder project.
+
+## Contact
+
+- Email: 2490590366@qq.com
+
+Thanks for visiting my profile.
