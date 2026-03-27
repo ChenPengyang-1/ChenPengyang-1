@@ -1,24 +1,13 @@
+<h2>Hi there 👋</h2>
 
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
+</p>
 
-# Hi there 👋
-
-I'm Pengyang Chen.
-
-- 🌱 Learning frontend development with React and TypeScript
-- 💻 Interested in building practical web projects
-- ⚡ Enjoy turning ideas into simple and useful pages
-
-## Tech Stack
-
-`JavaScript` `TypeScript` `React` `HTML` `CSS`
-
-## Projects
-
-- [Lowcode-builder-studio](https://github.com/ChenPengyang-1/Lowcode-builder-studio)  
-  A low-code page builder project.
-
-## Contact
-
-- Email: 2490590366@qq.com
-
-Thanks for visiting my profile.
+<ul>
+  <li>🏫 I'm studying at CQUPT</li>
+  <li>💻 Focus on Web frontend development</li>
+  <li>📬 How to reach me: <a href="mailto:2490590366@qq.com">2490590366@qq.com</a></li>
+</ul>
